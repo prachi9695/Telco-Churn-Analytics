@@ -75,7 +75,3 @@ Our models are evaluated using various metrics:
 - ROC-AUC
 
 Detailed performance metrics and comparisons are available in the notebooks directory.
-
-## Acknowledgments
-
-- Dataset provided by [source]
